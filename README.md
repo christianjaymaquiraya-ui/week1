@@ -16,7 +16,11 @@
  
 ### ✅ Claude Desktop open with all 4 MCP servers connected
 **Screenshot:**
-<img width="932" height="912" alt="claude-mcp" src="screenshots/claude-mcp.png" />
+<img width="932" height="912" alt="claude-mcp" src="screenshots/claudemcp.png" />
+
+### ✅ VS Code Insider running with GitHub Copilot enabled
+**Screenshot:**
+<img width="932" height="912" alt="claude-mcp" src="screenshots/githubcopilot.png" />
 
 ## MCP Servers Purpose
 
