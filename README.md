@@ -1,9 +1,22 @@
-# AI Agent Development Environment Setup - JHERILYN FORTES
+# AI Agent Development Environment Setup - CHRISTIAN JAY MAQUIRAYA
 
 **Workshop Cohort:** AI Agent Bootcamp November 2025
 
 ## Development Environment Checklist
 
+### ✅ Node.js installed
+**Screenshot:**
+<img width="944" height="78" alt="node-version" src="screenshots/node.png" />
+ 
+ 
+### ✅ Git installed
+**Screenshot:**
+<img width="1058" height="67" alt="git-version" src="screenshots/git.png" />
+ 
+ 
+### ✅ Claude Desktop open with all 4 MCP servers connected
+**Screenshot:**
+<img width="932" height="912" alt="claude-mcp" src="screenshots/claude-mcp.png" />
 
 ## MCP Servers Purpose
 

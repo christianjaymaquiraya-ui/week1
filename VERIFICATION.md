@@ -1,6 +1,6 @@
 AI Agent Development Environment Verification
 
-**Name:** Jherilyn Fortes  
+**Name:** CHRISTIAN JAY MAQUIRAYA  
 **Cohort:** AI Agent Bootcamp November 2025
 
 ## Screenshots of Setup
